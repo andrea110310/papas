@@ -1,0 +1,12 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: linear-gradient(#FDEFEB, #e6d5f0);
+}
+
+h1{
+    font-size: medium;
+}
